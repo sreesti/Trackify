@@ -215,7 +215,7 @@ export function Footer() {
           ))}
         </div>
         <div className="footer-bottom">
-          <span>© 2025 Trackify. All rights reserved.</span>
+          <span>© 2026 Trackify. All rights reserved.</span>
           <span>Created by Sreesti</span>
         </div>
       </div>
